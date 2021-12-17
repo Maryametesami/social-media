@@ -25,18 +25,17 @@ Users should be able to:
 
 ### Screenshot
 
--Desktop screenshot : [Desktop screenshot](images/Desktop-FireShotCapture.png)
--mobile screenshot : [mobile screenshot](images/mobile-FireShotCapture.png)
 
+-Desktop screenshot : ![Desktop screenshot](images/Desktop-FireShotCapture.png)
+-mobile screenshot : ![mobile screenshot](images/mobile-FireShotCapture.png)
 
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Maryametesami/social-media)
-- Live Site URL: [Add live site URL here](https://maryametesami.github.io/social-media/)
-
+- Solution URL: [https://github.com/Maryametesami/social-media]
+- Live Site URL: [https://maryametesami.github.io/social-media/]
 ## My process
 
 ### Built with
