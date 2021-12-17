@@ -25,17 +25,17 @@ Users should be able to:
 
 ### Screenshot
 
--![Desktop screenshot](images/Desktop-FireShotCapture.png)
--![mobile screenshot](images/mobile-FireShotCapture.png)
+-Desktop screenshot : [Desktop screenshot](images/Desktop-FireShotCapture.png)
+-mobile screenshot : [mobile screenshot](images/mobile-FireShotCapture.png)
 
-![](images/1.jpg)
+
 
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/Maryametesami/social-media)
+- Live Site URL: [Add live site URL here](https://maryametesami.github.io/social-media/)
 
 ## My process
 
