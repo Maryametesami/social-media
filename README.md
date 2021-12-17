@@ -25,8 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
--Desktop screenshot : image/Desktop-FireShotCapture.png
--mobile screenshot : image/mobile-FireShotCapture.png
+-Desktop screenshot : (images/Desktop-FireShotCapture.png)
+-mobile screenshot : (images/mobile-FireShotCapture.png)
+
+
 
 
 
