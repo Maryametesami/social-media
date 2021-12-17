@@ -25,10 +25,10 @@ Users should be able to:
 
 ### Screenshot
 
--[Desktop screenshot](images/Desktop-FireShotCapture.png)
--[mobile screenshot](images/mobile-FireShotCapture.png)
+-![Desktop screenshot](images/Desktop-FireShotCapture.png)
+-![mobile screenshot](images/mobile-FireShotCapture.png)
 
-
+![](images/1.jpg)
 
 
 
